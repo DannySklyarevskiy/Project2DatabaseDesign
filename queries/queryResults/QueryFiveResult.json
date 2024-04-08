@@ -1,0 +1,4360 @@
+[{
+  "_id": "human waste",
+  "crabs": [
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe35"
+      },
+      "crab_id": 1,
+      "nickname": "Sky",
+      "species": "Flying crab",
+      "shells": {
+        "well_being": 7.15,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "10/21/2020",
+        "date_discarded": "11/12/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe37"
+      },
+      "crab_id": 3,
+      "nickname": "Blaze",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 7.04,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "11/7/2022",
+        "date_discarded": "1/24/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe45"
+      },
+      "crab_id": 17,
+      "nickname": "Rusty",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 8.59,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "11/10/2019",
+        "date_discarded": "1/8/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe46"
+      },
+      "crab_id": 18,
+      "nickname": "Coco",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 8.08,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "5/22/2022",
+        "date_discarded": "4/21/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe4a"
+      },
+      "crab_id": 22,
+      "nickname": "Whiskers",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 1.68,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "4/21/2022",
+        "date_discarded": "10/2/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe4c"
+      },
+      "crab_id": 24,
+      "nickname": "Jazz",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 8.44,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "7/11/2019",
+        "date_discarded": "3/20/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe4e"
+      },
+      "crab_id": 26,
+      "nickname": "Frost",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 9.27,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "5/23/2019",
+        "date_discarded": "11/17/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe60"
+      },
+      "crab_id": 44,
+      "nickname": "Muffin",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 8.35,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "9/1/2021",
+        "date_discarded": "4/28/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe6b"
+      },
+      "crab_id": 55,
+      "nickname": "Maverick",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 5.48,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "11/19/2023",
+        "date_discarded": "8/5/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe6b"
+      },
+      "crab_id": 55,
+      "nickname": "Maverick",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 3.48,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "11/7/2020",
+        "date_discarded": "7/18/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe72"
+      },
+      "crab_id": 62,
+      "nickname": "Whisper",
+      "species": "King crab",
+      "shells": {
+        "well_being": 4.64,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "3/2/2022",
+        "date_discarded": "2/13/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe77"
+      },
+      "crab_id": 67,
+      "nickname": "Pebbles",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 9.56,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "10/5/2023",
+        "date_discarded": "6/4/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe7d"
+      },
+      "crab_id": 73,
+      "nickname": "Storm",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 5.63,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "7/10/2022",
+        "date_discarded": "4/1/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe82"
+      },
+      "crab_id": 78,
+      "nickname": "Shadow",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 7.58,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "7/29/2021",
+        "date_discarded": "11/4/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe87"
+      },
+      "crab_id": 83,
+      "nickname": "Hazel",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 5.34,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "2/19/2022",
+        "date_discarded": "11/10/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe89"
+      },
+      "crab_id": 85,
+      "nickname": "Buddy",
+      "species": "Snow crab",
+      "shells": {
+        "well_being": 5.83,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "10/25/2021",
+        "date_discarded": "8/8/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe90"
+      },
+      "crab_id": 92,
+      "nickname": "Sunny",
+      "species": "Horseshoe crab",
+      "shells": {
+        "well_being": 4.72,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "7/19/2021",
+        "date_discarded": "10/2/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe93"
+      },
+      "crab_id": 95,
+      "nickname": "Whiskers",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 5.65,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "1/13/2020",
+        "date_discarded": "6/19/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfea2"
+      },
+      "crab_id": 110,
+      "nickname": "Peanut",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 5.96,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "2/21/2024",
+        "date_discarded": "6/10/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfeab"
+      },
+      "crab_id": 119,
+      "nickname": "Dusty",
+      "species": "Horseshoe crab",
+      "shells": {
+        "well_being": 1.85,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "7/8/2019",
+        "date_discarded": "12/12/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfead"
+      },
+      "crab_id": 121,
+      "nickname": "Scooter",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 8.67,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "11/1/2022",
+        "date_discarded": "1/14/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfeb1"
+      },
+      "crab_id": 125,
+      "nickname": "Fawn",
+      "species": "King crab",
+      "shells": {
+        "well_being": 2.65,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "4/4/2023",
+        "date_discarded": "6/4/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfeb7"
+      },
+      "crab_id": 131,
+      "nickname": "Fawn",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 2.11,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "4/15/2021",
+        "date_discarded": "8/25/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfebd"
+      },
+      "crab_id": 137,
+      "nickname": "Echo",
+      "species": "Snow crab",
+      "shells": {
+        "well_being": 5.11,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "3/6/2020",
+        "date_discarded": "7/23/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfebe"
+      },
+      "crab_id": 138,
+      "nickname": "Sky",
+      "species": "Flying crab",
+      "shells": {
+        "well_being": 8.93,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "7/4/2021",
+        "date_discarded": "6/3/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfec0"
+      },
+      "crab_id": 140,
+      "nickname": "Pebbles",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 3.14,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "4/20/2021",
+        "date_discarded": "9/9/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfec2"
+      },
+      "crab_id": 142,
+      "nickname": "Peaches",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 8.03,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "4/28/2019",
+        "date_discarded": "12/3/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfec9"
+      },
+      "crab_id": 149,
+      "nickname": "Sunny",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 7.41,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "8/29/2021",
+        "date_discarded": "1/16/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfeca"
+      },
+      "crab_id": 150,
+      "nickname": "Angel",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 7.97,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "6/21/2021",
+        "date_discarded": "8/18/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfed2"
+      },
+      "crab_id": 158,
+      "nickname": "Misty",
+      "species": "King crab",
+      "shells": {
+        "well_being": 5.64,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "9/11/2021",
+        "date_discarded": "2/24/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfed9"
+      },
+      "crab_id": 165,
+      "nickname": "Bubbles",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 6.63,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "6/7/2019",
+        "date_discarded": "12/20/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfedd"
+      },
+      "crab_id": 169,
+      "nickname": "Nova",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 2.12,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "3/10/2022",
+        "date_discarded": "3/5/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfee0"
+      },
+      "crab_id": 172,
+      "nickname": "Blaze",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 8.95,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "5/25/2019",
+        "date_discarded": "4/7/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfee7"
+      },
+      "crab_id": 179,
+      "nickname": "Willow",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 1.24,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "2/18/2023",
+        "date_discarded": "3/2/2024"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfee8"
+      },
+      "crab_id": 180,
+      "nickname": "Mango",
+      "species": "Snow crab",
+      "shells": {
+        "well_being": 7.85,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "9/23/2021",
+        "date_discarded": "3/8/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfeea"
+      },
+      "crab_id": 182,
+      "nickname": "Scooter",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 4.87,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "5/23/2022",
+        "date_discarded": "5/14/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfeee"
+      },
+      "crab_id": 186,
+      "nickname": "Sapphire",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 9.27,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "12/22/2021",
+        "date_discarded": "11/9/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfefa"
+      },
+      "crab_id": 198,
+      "nickname": "Sunny",
+      "species": "Snow crab",
+      "shells": {
+        "well_being": 6.65,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "10/17/2023",
+        "date_discarded": "2/25/2024"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfefc"
+      },
+      "crab_id": 200,
+      "nickname": "Coco",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 2.46,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "12/5/2023",
+        "date_discarded": "11/27/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff04"
+      },
+      "crab_id": 208,
+      "nickname": "Midnight",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 8.41,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "3/14/2019",
+        "date_discarded": "10/4/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff0d"
+      },
+      "crab_id": 217,
+      "nickname": "Misty",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 2.88,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "1/5/2024",
+        "date_discarded": "10/21/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff23"
+      },
+      "crab_id": 239,
+      "nickname": "Muffin",
+      "species": "Snow crab",
+      "shells": {
+        "well_being": 7.63,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "3/23/2020",
+        "date_discarded": "1/3/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff32"
+      },
+      "crab_id": 254,
+      "nickname": "Misty",
+      "species": "Snow crab",
+      "shells": {
+        "well_being": 9.79,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "11/4/2019",
+        "date_discarded": "11/20/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff3f"
+      },
+      "crab_id": 267,
+      "nickname": "Tiger",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 5.52,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "8/2/2021",
+        "date_discarded": "12/12/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff40"
+      },
+      "crab_id": 268,
+      "nickname": "Muffin",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 3.89,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "3/6/2020",
+        "date_discarded": "11/16/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff4f"
+      },
+      "crab_id": 283,
+      "nickname": "Peaches",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 8.6,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "1/6/2023",
+        "date_discarded": "8/29/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff57"
+      },
+      "crab_id": 291,
+      "nickname": "Pebbles",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 7.15,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "5/20/2019",
+        "date_discarded": "5/28/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff57"
+      },
+      "crab_id": 291,
+      "nickname": "Pebbles",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 2.06,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "1/2/2020",
+        "date_discarded": "7/21/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff5d"
+      },
+      "crab_id": 297,
+      "nickname": "Willow",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 9.7,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "2/9/2021",
+        "date_discarded": "3/30/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff61"
+      },
+      "crab_id": 301,
+      "nickname": "Pebbles",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 5.59,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "6/30/2021",
+        "date_discarded": "11/13/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff67"
+      },
+      "crab_id": 307,
+      "nickname": "Pebbles",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 9.71,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "1/18/2020",
+        "date_discarded": "4/10/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff70"
+      },
+      "crab_id": 316,
+      "nickname": "Gizmo",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 1.86,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "6/16/2021",
+        "date_discarded": "9/15/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff78"
+      },
+      "crab_id": 324,
+      "nickname": "Ziggy",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 7.06,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "10/7/2021",
+        "date_discarded": "10/23/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff7a"
+      },
+      "crab_id": 326,
+      "nickname": "Tiger",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 9.36,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "4/8/2020",
+        "date_discarded": "10/5/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff7d"
+      },
+      "crab_id": 329,
+      "nickname": "Daisy",
+      "species": "Horseshoe crab",
+      "shells": {
+        "well_being": 2.07,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "1/5/2021",
+        "date_discarded": "4/5/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff88"
+      },
+      "crab_id": 340,
+      "nickname": "Whisper",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 9.68,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "5/27/2021",
+        "date_discarded": "8/7/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff89"
+      },
+      "crab_id": 341,
+      "nickname": "Blaze",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 6.8,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "12/14/2023",
+        "date_discarded": "6/11/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff8a"
+      },
+      "crab_id": 342,
+      "nickname": "Pumpkin",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 2.02,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "8/29/2021",
+        "date_discarded": "11/21/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff94"
+      },
+      "crab_id": 352,
+      "nickname": "Sunny",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 8.67,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "5/31/2019",
+        "date_discarded": "6/3/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff97"
+      },
+      "crab_id": 355,
+      "nickname": "Misty",
+      "species": "Horseshoe crab",
+      "shells": {
+        "well_being": 6.5,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "1/12/2021",
+        "date_discarded": "12/11/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecffa7"
+      },
+      "crab_id": 371,
+      "nickname": "Raven",
+      "species": "King crab",
+      "shells": {
+        "well_being": 2.83,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "10/6/2019",
+        "date_discarded": "5/22/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecffbf"
+      },
+      "crab_id": 395,
+      "nickname": "Sapphire",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 3.13,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "8/29/2020",
+        "date_discarded": "11/12/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecffc0"
+      },
+      "crab_id": 396,
+      "nickname": "Lucky",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 6.47,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "11/30/2022",
+        "date_discarded": "9/20/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecffcc"
+      },
+      "crab_id": 408,
+      "nickname": "Fawn",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 4.63,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "3/25/2021",
+        "date_discarded": "11/8/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecffd8"
+      },
+      "crab_id": 420,
+      "nickname": "Ziggy",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 8.54,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "3/26/2019",
+        "date_discarded": "8/13/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecffe0"
+      },
+      "crab_id": 428,
+      "nickname": "Mango",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 4.81,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "6/30/2019",
+        "date_discarded": "12/31/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecffe6"
+      },
+      "crab_id": 434,
+      "nickname": "Nova",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 7.16,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "1/30/2024",
+        "date_discarded": "1/24/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecffec"
+      },
+      "crab_id": 440,
+      "nickname": "Twinkle",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 5.74,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "12/21/2021",
+        "date_discarded": "6/29/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfff1"
+      },
+      "crab_id": 445,
+      "nickname": "Midnight",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 8.74,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "3/15/2019",
+        "date_discarded": "8/21/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfff5"
+      },
+      "crab_id": 449,
+      "nickname": "Sunny",
+      "species": "King crab",
+      "shells": {
+        "well_being": 1.96,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "1/28/2021",
+        "date_discarded": "5/31/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfff7"
+      },
+      "crab_id": 451,
+      "nickname": "Pebbles",
+      "species": "Snow crab",
+      "shells": {
+        "well_being": 6.61,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "3/5/2020",
+        "date_discarded": "9/10/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfffd"
+      },
+      "crab_id": 457,
+      "nickname": "Midnight",
+      "species": "King crab",
+      "shells": {
+        "well_being": 5.15,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "1/26/2023",
+        "date_discarded": "10/26/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfffe"
+      },
+      "crab_id": 458,
+      "nickname": "Hazel",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 8.26,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "10/24/2019",
+        "date_discarded": "8/25/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecffff"
+      },
+      "crab_id": 459,
+      "nickname": "Jazz",
+      "species": "Horseshoe crab",
+      "shells": {
+        "well_being": 9.87,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "5/1/2019",
+        "date_discarded": "5/13/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed000c"
+      },
+      "crab_id": 472,
+      "nickname": "Coco",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 2.2,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "8/11/2021",
+        "date_discarded": "2/25/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0013"
+      },
+      "crab_id": 479,
+      "nickname": "Nova",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 3.92,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "6/25/2020",
+        "date_discarded": "11/24/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed001b"
+      },
+      "crab_id": 487,
+      "nickname": "Raven",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 6.3,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "7/12/2019",
+        "date_discarded": "8/3/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0022"
+      },
+      "crab_id": 494,
+      "nickname": "Sky",
+      "species": "Flying crab",
+      "shells": {
+        "well_being": 4.07,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "6/27/2020",
+        "date_discarded": "5/1/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed002c"
+      },
+      "crab_id": 504,
+      "nickname": "Midnight",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 2.34,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "9/5/2020",
+        "date_discarded": "3/9/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0030"
+      },
+      "crab_id": 508,
+      "nickname": "Misty",
+      "species": "Snow crab",
+      "shells": {
+        "well_being": 3.27,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "10/16/2021",
+        "date_discarded": "12/6/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0036"
+      },
+      "crab_id": 514,
+      "nickname": "Pumpkin",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 5.3,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "4/25/2023",
+        "date_discarded": "10/2/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0042"
+      },
+      "crab_id": 526,
+      "nickname": "Shadow",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 2.88,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "11/25/2023",
+        "date_discarded": "2/5/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0043"
+      },
+      "crab_id": 527,
+      "nickname": "Bubbles",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 9.81,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "8/16/2021",
+        "date_discarded": "5/12/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed004f"
+      },
+      "crab_id": 539,
+      "nickname": "Nova",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 8.6,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "11/5/2021",
+        "date_discarded": "5/24/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0051"
+      },
+      "crab_id": 541,
+      "nickname": "Pebbles",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 1.3,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "5/16/2020",
+        "date_discarded": "8/9/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed005b"
+      },
+      "crab_id": 551,
+      "nickname": "Hazel",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 7.09,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "1/12/2024",
+        "date_discarded": "8/18/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0062"
+      },
+      "crab_id": 558,
+      "nickname": "Fawn",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 7.68,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "4/8/2023",
+        "date_discarded": "6/8/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed007c"
+      },
+      "crab_id": 584,
+      "nickname": "Sunny",
+      "species": "King crab",
+      "shells": {
+        "well_being": 1.04,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "5/22/2020",
+        "date_discarded": "5/28/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed007c"
+      },
+      "crab_id": 584,
+      "nickname": "Sunny",
+      "species": "King crab",
+      "shells": {
+        "well_being": 1.97,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "6/27/2021",
+        "date_discarded": "1/23/2024"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0084"
+      },
+      "crab_id": 592,
+      "nickname": "Dusty",
+      "species": "King crab",
+      "shells": {
+        "well_being": 9.92,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "4/17/2023",
+        "date_discarded": "10/22/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed008a"
+      },
+      "crab_id": 598,
+      "nickname": "Pebbles",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 7.73,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "12/27/2022",
+        "date_discarded": "1/28/2024"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0090"
+      },
+      "crab_id": 604,
+      "nickname": "Peanut",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 9.36,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "3/13/2019",
+        "date_discarded": "10/10/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00a4"
+      },
+      "crab_id": 624,
+      "nickname": "Ziggy",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 4.2,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "3/13/2021",
+        "date_discarded": "6/8/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00a9"
+      },
+      "crab_id": 629,
+      "nickname": "Hazel",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 1.85,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "11/25/2023",
+        "date_discarded": "2/1/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00aa"
+      },
+      "crab_id": 630,
+      "nickname": "Willow",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 4.19,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "3/18/2021",
+        "date_discarded": "9/17/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00ab"
+      },
+      "crab_id": 631,
+      "nickname": "Daisy",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 5.56,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "7/14/2023",
+        "date_discarded": "7/7/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00ae"
+      },
+      "crab_id": 634,
+      "nickname": "Rusty",
+      "species": "King crab",
+      "shells": {
+        "well_being": 6.19,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "1/5/2021",
+        "date_discarded": "4/25/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00b2"
+      },
+      "crab_id": 638,
+      "nickname": "Bubbles",
+      "species": "Snow crab",
+      "shells": {
+        "well_being": 2.12,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "6/24/2019",
+        "date_discarded": "10/29/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00c6"
+      },
+      "crab_id": 658,
+      "nickname": "Coco",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 7.92,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "8/15/2022",
+        "date_discarded": "3/25/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00ca"
+      },
+      "crab_id": 662,
+      "nickname": "Sunny",
+      "species": "King crab",
+      "shells": {
+        "well_being": 1.8,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "11/8/2019",
+        "date_discarded": "1/20/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00cc"
+      },
+      "crab_id": 664,
+      "nickname": "Pebbles",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 5.46,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "3/7/2021",
+        "date_discarded": "2/7/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00cd"
+      },
+      "crab_id": 665,
+      "nickname": "Jazz",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 3.37,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "9/27/2021",
+        "date_discarded": "6/20/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00d4"
+      },
+      "crab_id": 672,
+      "nickname": "Sapphire",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 7.84,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "2/2/2023",
+        "date_discarded": "4/4/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00d8"
+      },
+      "crab_id": 676,
+      "nickname": "Pebbles",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 5.81,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "7/13/2022",
+        "date_discarded": "9/26/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00da"
+      },
+      "crab_id": 678,
+      "nickname": "Raven",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 5.91,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "9/19/2022",
+        "date_discarded": "9/18/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00e1"
+      },
+      "crab_id": 685,
+      "nickname": "Willow",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 6.54,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "5/28/2022",
+        "date_discarded": "6/7/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00ec"
+      },
+      "crab_id": 696,
+      "nickname": "Daisy",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 5.84,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "12/31/2019",
+        "date_discarded": "3/15/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00ed"
+      },
+      "crab_id": 697,
+      "nickname": "Sunny",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 5.39,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "6/26/2019",
+        "date_discarded": "6/5/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00f4"
+      },
+      "crab_id": 704,
+      "nickname": "Sapphire",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 3.48,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "2/11/2024",
+        "date_discarded": "10/21/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00f7"
+      },
+      "crab_id": 707,
+      "nickname": "Whisper",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 6.99,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "6/16/2022",
+        "date_discarded": "1/6/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00f8"
+      },
+      "crab_id": 708,
+      "nickname": "Echo",
+      "species": "King crab",
+      "shells": {
+        "well_being": 7.47,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "4/19/2019",
+        "date_discarded": "5/6/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed012c"
+      },
+      "crab_id": 760,
+      "nickname": "Lucky",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 8.06,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "1/18/2020",
+        "date_discarded": "1/2/2024"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed012d"
+      },
+      "crab_id": 761,
+      "nickname": "Peaches",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 7.28,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "5/15/2019",
+        "date_discarded": "4/25/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0136"
+      },
+      "crab_id": 770,
+      "nickname": "Sunny",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 5.84,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "5/13/2023",
+        "date_discarded": "1/6/2024"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0136"
+      },
+      "crab_id": 770,
+      "nickname": "Sunny",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 9.52,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "8/3/2021",
+        "date_discarded": "11/15/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed013c"
+      },
+      "crab_id": 776,
+      "nickname": "Pebbles",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 4.58,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "3/7/2021",
+        "date_discarded": "8/4/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed013d"
+      },
+      "crab_id": 777,
+      "nickname": "Scooter",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 3.81,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "4/28/2022",
+        "date_discarded": "3/7/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed013e"
+      },
+      "crab_id": 778,
+      "nickname": "Sunny",
+      "species": "King crab",
+      "shells": {
+        "well_being": 5.87,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "2/22/2020",
+        "date_discarded": "2/24/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0145"
+      },
+      "crab_id": 785,
+      "nickname": "Willow",
+      "species": "King crab",
+      "shells": {
+        "well_being": 8.55,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "2/7/2024",
+        "date_discarded": "11/16/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0145"
+      },
+      "crab_id": 785,
+      "nickname": "Willow",
+      "species": "King crab",
+      "shells": {
+        "well_being": 7.47,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "3/19/2020",
+        "date_discarded": "3/4/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed014b"
+      },
+      "crab_id": 791,
+      "nickname": "Shadow",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 1.77,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "3/8/2020",
+        "date_discarded": "9/4/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0155"
+      },
+      "crab_id": 801,
+      "nickname": "Jazz",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 1.36,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "3/16/2023",
+        "date_discarded": "2/22/2024"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0157"
+      },
+      "crab_id": 803,
+      "nickname": "Twinkle",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 4.92,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "8/30/2019",
+        "date_discarded": "1/19/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0158"
+      },
+      "crab_id": 804,
+      "nickname": "Sapphire",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 4.55,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "8/22/2023",
+        "date_discarded": "8/8/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0167"
+      },
+      "crab_id": 819,
+      "nickname": "Angel",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 8.18,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "10/27/2023",
+        "date_discarded": "9/14/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0167"
+      },
+      "crab_id": 819,
+      "nickname": "Angel",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 1.01,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "9/27/2022",
+        "date_discarded": "2/12/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed016e"
+      },
+      "crab_id": 826,
+      "nickname": "Pumpkin",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 3.03,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "10/29/2021",
+        "date_discarded": "8/13/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0173"
+      },
+      "crab_id": 831,
+      "nickname": "Sunny",
+      "species": "King crab",
+      "shells": {
+        "well_being": 7.41,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "2/6/2024",
+        "date_discarded": "11/9/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed018c"
+      },
+      "crab_id": 856,
+      "nickname": "Sunny",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 4.5,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "1/2/2022",
+        "date_discarded": "1/1/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01b7"
+      },
+      "crab_id": 899,
+      "nickname": "Fawn",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 5.17,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "5/13/2022",
+        "date_discarded": "11/11/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01b9"
+      },
+      "crab_id": 901,
+      "nickname": "Sugar",
+      "species": "Horseshoe crab",
+      "shells": {
+        "well_being": 3.52,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "8/24/2022",
+        "date_discarded": "12/31/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01ca"
+      },
+      "crab_id": 918,
+      "nickname": "Blossom",
+      "species": "King crab",
+      "shells": {
+        "well_being": 8.63,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "9/27/2019",
+        "date_discarded": "2/27/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01de"
+      },
+      "crab_id": 938,
+      "nickname": "Frost",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 2.46,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "3/20/2019",
+        "date_discarded": "7/6/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01e2"
+      },
+      "crab_id": 942,
+      "nickname": "Ziggy",
+      "species": "King crab",
+      "shells": {
+        "well_being": 8.72,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "9/13/2022",
+        "date_discarded": "9/4/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01e9"
+      },
+      "crab_id": 949,
+      "nickname": "Pebbles",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 8.88,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "10/26/2022",
+        "date_discarded": "11/12/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01ef"
+      },
+      "crab_id": 955,
+      "nickname": "Hazel",
+      "species": "Horseshoe crab",
+      "shells": {
+        "well_being": 9.21,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "11/1/2020",
+        "date_discarded": "12/30/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01f3"
+      },
+      "crab_id": 959,
+      "nickname": "Bubbles",
+      "species": "Horseshoe crab",
+      "shells": {
+        "well_being": 6.93,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "1/26/2024",
+        "date_discarded": "1/17/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01f8"
+      },
+      "crab_id": 964,
+      "nickname": "Willow",
+      "species": "King crab",
+      "shells": {
+        "well_being": 2.92,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "9/5/2020",
+        "date_discarded": "3/3/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0200"
+      },
+      "crab_id": 972,
+      "nickname": "Tiger",
+      "species": "Horseshoe crab",
+      "shells": {
+        "well_being": 8.53,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "7/25/2022",
+        "date_discarded": "8/22/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0200"
+      },
+      "crab_id": 972,
+      "nickname": "Tiger",
+      "species": "Horseshoe crab",
+      "shells": {
+        "well_being": 6.49,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "12/30/2019",
+        "date_discarded": "6/19/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0201"
+      },
+      "crab_id": 973,
+      "nickname": "Buddy",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 9.41,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "10/12/2020",
+        "date_discarded": "4/11/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0202"
+      },
+      "crab_id": 974,
+      "nickname": "Echo",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 1.53,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "6/10/2022",
+        "date_discarded": "4/9/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0206"
+      },
+      "crab_id": 978,
+      "nickname": "Buddy",
+      "species": "King crab",
+      "shells": {
+        "well_being": 2.55,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "10/1/2019",
+        "date_discarded": "4/30/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed020c"
+      },
+      "crab_id": 984,
+      "nickname": "Lucky",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 5.78,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "10/20/2021",
+        "date_discarded": "10/29/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0210"
+      },
+      "crab_id": 988,
+      "nickname": "Nova",
+      "species": "King crab",
+      "shells": {
+        "well_being": 9.87,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "1/14/2020",
+        "date_discarded": "11/12/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0215"
+      },
+      "crab_id": 993,
+      "nickname": "Coco",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 5.46,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "9/28/2019",
+        "date_discarded": "5/2/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0218"
+      },
+      "crab_id": 996,
+      "nickname": "Shadow",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 2.24,
+        "shell_is_artificial": false,
+        "shell_type": "human waste",
+        "date_picked_up": "10/16/2019",
+        "date_discarded": "8/13/2022"
+      }
+    }
+  ]
+},
+{
+  "_id": "artificial",
+  "crabs": [
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe45"
+      },
+      "crab_id": 17,
+      "nickname": "Rusty",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 9.31,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "1/19/2023",
+        "date_discarded": "6/21/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe46"
+      },
+      "crab_id": 18,
+      "nickname": "Coco",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 7.33,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "8/23/2023",
+        "date_discarded": "10/22/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe47"
+      },
+      "crab_id": 19,
+      "nickname": "Lucky",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 4.48,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "9/3/2019",
+        "date_discarded": "8/14/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe51"
+      },
+      "crab_id": 29,
+      "nickname": "Peanut",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 2.74,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "1/27/2021",
+        "date_discarded": "6/24/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe55"
+      },
+      "crab_id": 33,
+      "nickname": "Midnight",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 2.43,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "12/19/2023",
+        "date_discarded": "4/11/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe5e"
+      },
+      "crab_id": 42,
+      "nickname": "Willow",
+      "species": "Snow crab",
+      "shells": {
+        "well_being": 8.46,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "6/9/2019",
+        "date_discarded": "5/13/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe63"
+      },
+      "crab_id": 47,
+      "nickname": "Pumpkin",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 3.62,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "7/7/2021",
+        "date_discarded": "8/22/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe6f"
+      },
+      "crab_id": 59,
+      "nickname": "Blossom",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 8.79,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "4/8/2023",
+        "date_discarded": "8/5/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe70"
+      },
+      "crab_id": 60,
+      "nickname": "Cinnamon",
+      "species": "Horseshoe crab",
+      "shells": {
+        "well_being": 2.75,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "11/7/2021",
+        "date_discarded": "6/10/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe71"
+      },
+      "crab_id": 61,
+      "nickname": "Pebbles",
+      "species": "King crab",
+      "shells": {
+        "well_being": 6.84,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "3/21/2023",
+        "date_discarded": "11/11/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe79"
+      },
+      "crab_id": 69,
+      "nickname": "Bubbles",
+      "species": "Snow crab",
+      "shells": {
+        "well_being": 1.86,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "3/18/2023",
+        "date_discarded": "12/10/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe87"
+      },
+      "crab_id": 83,
+      "nickname": "Hazel",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 6.59,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "6/15/2020",
+        "date_discarded": "1/20/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe89"
+      },
+      "crab_id": 85,
+      "nickname": "Buddy",
+      "species": "Snow crab",
+      "shells": {
+        "well_being": 4.51,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "10/19/2020",
+        "date_discarded": "9/3/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe8a"
+      },
+      "crab_id": 86,
+      "nickname": "Nova",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 4.31,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "2/8/2022",
+        "date_discarded": "7/28/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe95"
+      },
+      "crab_id": 97,
+      "nickname": "Maverick",
+      "species": "Horseshoe crab",
+      "shells": {
+        "well_being": 6.33,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "10/22/2023",
+        "date_discarded": "1/10/2024"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe96"
+      },
+      "crab_id": 98,
+      "nickname": "Tiger",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 4.05,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "1/7/2020",
+        "date_discarded": "12/20/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe9d"
+      },
+      "crab_id": 105,
+      "nickname": "Raven",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 5.45,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "12/3/2022",
+        "date_discarded": "1/15/2024"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfe9d"
+      },
+      "crab_id": 105,
+      "nickname": "Raven",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 8.39,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "6/8/2023",
+        "date_discarded": "12/14/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfea4"
+      },
+      "crab_id": 112,
+      "nickname": "Fawn",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 5.22,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "9/30/2021",
+        "date_discarded": "5/28/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfea4"
+      },
+      "crab_id": 112,
+      "nickname": "Fawn",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 3.7,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "10/11/2022",
+        "date_discarded": "2/7/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfeab"
+      },
+      "crab_id": 119,
+      "nickname": "Dusty",
+      "species": "Horseshoe crab",
+      "shells": {
+        "well_being": 9.48,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "6/5/2022",
+        "date_discarded": "12/31/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfeb4"
+      },
+      "crab_id": 128,
+      "nickname": "Jazz",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 6.67,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "11/9/2020",
+        "date_discarded": "7/6/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfeb7"
+      },
+      "crab_id": 131,
+      "nickname": "Fawn",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 1.57,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "4/1/2023",
+        "date_discarded": "7/20/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfebc"
+      },
+      "crab_id": 136,
+      "nickname": "Scooter",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 6.17,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "3/24/2021",
+        "date_discarded": "5/18/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfec8"
+      },
+      "crab_id": 148,
+      "nickname": "Tiger",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 8.73,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "1/4/2021",
+        "date_discarded": "4/16/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfec9"
+      },
+      "crab_id": 149,
+      "nickname": "Sunny",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 2.75,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "6/10/2020",
+        "date_discarded": "4/25/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfed5"
+      },
+      "crab_id": 161,
+      "nickname": "Peanut",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 2.3,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "10/23/2019",
+        "date_discarded": "2/12/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfed5"
+      },
+      "crab_id": 161,
+      "nickname": "Peanut",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 8.07,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "5/2/2020",
+        "date_discarded": "7/26/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfedd"
+      },
+      "crab_id": 169,
+      "nickname": "Nova",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 8.27,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "11/12/2020",
+        "date_discarded": "4/1/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfede"
+      },
+      "crab_id": 170,
+      "nickname": "Jazz",
+      "species": "King crab",
+      "shells": {
+        "well_being": 6.02,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "4/17/2020",
+        "date_discarded": "3/11/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfef9"
+      },
+      "crab_id": 197,
+      "nickname": "Midnight",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 8.31,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "7/26/2022",
+        "date_discarded": "11/6/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecfefb"
+      },
+      "crab_id": 199,
+      "nickname": "Shadow",
+      "species": "Snow crab",
+      "shells": {
+        "well_being": 8.42,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "2/9/2022",
+        "date_discarded": "11/10/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff05"
+      },
+      "crab_id": 209,
+      "nickname": "Echo",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 2.96,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "1/27/2021",
+        "date_discarded": "1/3/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff0a"
+      },
+      "crab_id": 214,
+      "nickname": "Sugar",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 5.35,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "10/21/2019",
+        "date_discarded": "3/25/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff15"
+      },
+      "crab_id": 225,
+      "nickname": "Pebbles",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 6.1,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "12/14/2019",
+        "date_discarded": "7/1/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff16"
+      },
+      "crab_id": 226,
+      "nickname": "Dusty",
+      "species": "Snow crab",
+      "shells": {
+        "well_being": 9.09,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "2/6/2024",
+        "date_discarded": "9/5/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff2b"
+      },
+      "crab_id": 247,
+      "nickname": "Blossom",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 2.46,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "11/28/2020",
+        "date_discarded": "8/10/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff2d"
+      },
+      "crab_id": 249,
+      "nickname": "Sunny",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 1.92,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "2/8/2023",
+        "date_discarded": "3/26/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff2f"
+      },
+      "crab_id": 251,
+      "nickname": "Daisy",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 7.31,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "11/2/2022",
+        "date_discarded": "1/24/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff34"
+      },
+      "crab_id": 256,
+      "nickname": "Hazel",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 6.21,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "10/27/2023",
+        "date_discarded": "12/4/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff35"
+      },
+      "crab_id": 257,
+      "nickname": "Misty",
+      "species": "Horseshoe crab",
+      "shells": {
+        "well_being": 2.25,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "1/27/2021",
+        "date_discarded": "1/5/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff4f"
+      },
+      "crab_id": 283,
+      "nickname": "Peaches",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 5.85,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "4/19/2019",
+        "date_discarded": "12/19/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff51"
+      },
+      "crab_id": 285,
+      "nickname": "Misty",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 5.67,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "2/24/2020",
+        "date_discarded": "10/18/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff5b"
+      },
+      "crab_id": 295,
+      "nickname": "Raven",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 9.34,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "10/2/2022",
+        "date_discarded": "2/25/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff60"
+      },
+      "crab_id": 300,
+      "nickname": "Midnight",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 1.05,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "6/1/2019",
+        "date_discarded": "3/9/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff6b"
+      },
+      "crab_id": 311,
+      "nickname": "Dusty",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 4.18,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "6/8/2020",
+        "date_discarded": "7/16/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff6d"
+      },
+      "crab_id": 313,
+      "nickname": "Sapphire",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 4.68,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "5/28/2023",
+        "date_discarded": "6/2/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff76"
+      },
+      "crab_id": 322,
+      "nickname": "Pumpkin",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 1.82,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "11/28/2021",
+        "date_discarded": "10/3/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff7c"
+      },
+      "crab_id": 328,
+      "nickname": "Midnight",
+      "species": "Snow crab",
+      "shells": {
+        "well_being": 7.98,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "2/8/2020",
+        "date_discarded": "1/2/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff89"
+      },
+      "crab_id": 341,
+      "nickname": "Blaze",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 7.24,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "11/27/2023",
+        "date_discarded": "8/27/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff90"
+      },
+      "crab_id": 348,
+      "nickname": "Raven",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 4.04,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "6/7/2023",
+        "date_discarded": "7/3/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff96"
+      },
+      "crab_id": 354,
+      "nickname": "Dusty",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 5.57,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "8/12/2021",
+        "date_discarded": "7/2/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff9a"
+      },
+      "crab_id": 358,
+      "nickname": "Twinkle",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 3.89,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "8/31/2022",
+        "date_discarded": "6/18/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecff9c"
+      },
+      "crab_id": 360,
+      "nickname": "Sky",
+      "species": "Flying crab",
+      "shells": {
+        "well_being": 3.55,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "7/15/2019",
+        "date_discarded": "10/2/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecffa1"
+      },
+      "crab_id": 365,
+      "nickname": "Willow",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 4.76,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "7/11/2023",
+        "date_discarded": "9/2/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecffa6"
+      },
+      "crab_id": 370,
+      "nickname": "Daisy",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 5.17,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "10/21/2019",
+        "date_discarded": "6/13/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecffb1"
+      },
+      "crab_id": 381,
+      "nickname": "Maverick",
+      "species": "King crab",
+      "shells": {
+        "well_being": 2.29,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "5/3/2019",
+        "date_discarded": "12/10/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecffb4"
+      },
+      "crab_id": 384,
+      "nickname": "Sunny",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 9.4,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "5/11/2019",
+        "date_discarded": "5/18/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecffbe"
+      },
+      "crab_id": 394,
+      "nickname": "Muffin",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 1.39,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "1/2/2021",
+        "date_discarded": "3/20/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecffbe"
+      },
+      "crab_id": 394,
+      "nickname": "Muffin",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 8.64,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "5/11/2021",
+        "date_discarded": "3/21/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecffc9"
+      },
+      "crab_id": 405,
+      "nickname": "Mango",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 6.18,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "3/19/2023",
+        "date_discarded": "1/14/2024"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecffdc"
+      },
+      "crab_id": 424,
+      "nickname": "Pumpkin",
+      "species": "King crab",
+      "shells": {
+        "well_being": 8.63,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "1/11/2022",
+        "date_discarded": "5/29/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecffe9"
+      },
+      "crab_id": 437,
+      "nickname": "Storm",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 7.95,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "4/18/2021",
+        "date_discarded": "3/16/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecffec"
+      },
+      "crab_id": 440,
+      "nickname": "Twinkle",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 3.7,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "1/25/2021",
+        "date_discarded": "11/7/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ecffed"
+      },
+      "crab_id": 441,
+      "nickname": "Whiskers",
+      "species": "Horseshoe crab",
+      "shells": {
+        "well_being": 4.48,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "8/10/2023",
+        "date_discarded": "6/6/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0003"
+      },
+      "crab_id": 463,
+      "nickname": "Sunny",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 7.49,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "10/19/2023",
+        "date_discarded": "7/18/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0004"
+      },
+      "crab_id": 464,
+      "nickname": "Sapphire",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 7.3,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "2/24/2021",
+        "date_discarded": "7/3/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0007"
+      },
+      "crab_id": 467,
+      "nickname": "Pumpkin",
+      "species": "Horseshoe crab",
+      "shells": {
+        "well_being": 6.18,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "9/3/2023",
+        "date_discarded": "7/25/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed000d"
+      },
+      "crab_id": 473,
+      "nickname": "Sky",
+      "species": "Flying crab",
+      "shells": {
+        "well_being": 1.62,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "10/19/2021",
+        "date_discarded": "10/8/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed001b"
+      },
+      "crab_id": 487,
+      "nickname": "Raven",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 2.71,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "9/30/2021",
+        "date_discarded": "11/5/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed002d"
+      },
+      "crab_id": 505,
+      "nickname": "Pumpkin",
+      "species": "King crab",
+      "shells": {
+        "well_being": 1.47,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "9/20/2019",
+        "date_discarded": "3/7/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed002d"
+      },
+      "crab_id": 505,
+      "nickname": "Pumpkin",
+      "species": "King crab",
+      "shells": {
+        "well_being": 3.91,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "5/9/2019",
+        "date_discarded": "10/10/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0039"
+      },
+      "crab_id": 517,
+      "nickname": "Frost",
+      "species": "Snow crab",
+      "shells": {
+        "well_being": 5.52,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "8/28/2019",
+        "date_discarded": "12/28/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed003b"
+      },
+      "crab_id": 519,
+      "nickname": "Jazz",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 4.31,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "6/4/2023",
+        "date_discarded": "7/21/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0041"
+      },
+      "crab_id": 525,
+      "nickname": "Fawn",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 7.24,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "6/14/2022",
+        "date_discarded": "3/9/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0043"
+      },
+      "crab_id": 527,
+      "nickname": "Bubbles",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 4.71,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "11/5/2022",
+        "date_discarded": "11/26/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed004b"
+      },
+      "crab_id": 535,
+      "nickname": "Gizmo",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 5.59,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "11/17/2022",
+        "date_discarded": "6/4/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed004c"
+      },
+      "crab_id": 536,
+      "nickname": "Nova",
+      "species": "King crab",
+      "shells": {
+        "well_being": 1.89,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "2/20/2022",
+        "date_discarded": "3/8/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed004f"
+      },
+      "crab_id": 539,
+      "nickname": "Nova",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 4.84,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "12/15/2023",
+        "date_discarded": "9/16/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0050"
+      },
+      "crab_id": 540,
+      "nickname": "Gizmo",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 1.67,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "4/7/2019",
+        "date_discarded": "10/12/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed006e"
+      },
+      "crab_id": 570,
+      "nickname": "Rusty",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 1.09,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "7/24/2021",
+        "date_discarded": "11/15/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0072"
+      },
+      "crab_id": 574,
+      "nickname": "Storm",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 7.9,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "2/10/2023",
+        "date_discarded": "2/27/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed007b"
+      },
+      "crab_id": 583,
+      "nickname": "Mango",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 8.89,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "4/29/2022",
+        "date_discarded": "3/14/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed007e"
+      },
+      "crab_id": 586,
+      "nickname": "Pebbles",
+      "species": "Snow crab",
+      "shells": {
+        "well_being": 3.87,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "3/25/2021",
+        "date_discarded": "7/28/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0085"
+      },
+      "crab_id": 593,
+      "nickname": "Lucky",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 6.36,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "10/10/2023",
+        "date_discarded": "6/3/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed008c"
+      },
+      "crab_id": 600,
+      "nickname": "Lucky",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 6.87,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "1/17/2024",
+        "date_discarded": "9/16/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0090"
+      },
+      "crab_id": 604,
+      "nickname": "Peanut",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 5.66,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "1/10/2020",
+        "date_discarded": "7/30/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed009c"
+      },
+      "crab_id": 616,
+      "nickname": "Buddy",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 1.66,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "1/19/2024",
+        "date_discarded": "9/14/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed009d"
+      },
+      "crab_id": 617,
+      "nickname": "Daisy",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 8.24,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "4/16/2022",
+        "date_discarded": "11/22/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00a4"
+      },
+      "crab_id": 624,
+      "nickname": "Ziggy",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 8.25,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "6/19/2023",
+        "date_discarded": "5/2/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00a8"
+      },
+      "crab_id": 628,
+      "nickname": "Twinkle",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 8.91,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "3/9/2020",
+        "date_discarded": "2/18/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00ac"
+      },
+      "crab_id": 632,
+      "nickname": "Twinkle",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 6.2,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "9/19/2020",
+        "date_discarded": "6/15/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00af"
+      },
+      "crab_id": 635,
+      "nickname": "Peanut",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 3.71,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "11/28/2020",
+        "date_discarded": "11/8/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00b7"
+      },
+      "crab_id": 643,
+      "nickname": "Storm",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 4.61,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "11/12/2022",
+        "date_discarded": "3/10/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00c4"
+      },
+      "crab_id": 656,
+      "nickname": "Hazel",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 3.16,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "7/20/2019",
+        "date_discarded": "12/17/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00c9"
+      },
+      "crab_id": 661,
+      "nickname": "Dusty",
+      "species": "Horseshoe crab",
+      "shells": {
+        "well_being": 7.59,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "5/23/2020",
+        "date_discarded": "8/12/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00cb"
+      },
+      "crab_id": 663,
+      "nickname": "Peanut",
+      "species": "Snow crab",
+      "shells": {
+        "well_being": 4.41,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "5/23/2019",
+        "date_discarded": "6/16/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00cb"
+      },
+      "crab_id": 663,
+      "nickname": "Peanut",
+      "species": "Snow crab",
+      "shells": {
+        "well_being": 4.94,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "12/4/2019",
+        "date_discarded": "8/8/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00d6"
+      },
+      "crab_id": 674,
+      "nickname": "Buddy",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 7.38,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "2/9/2020",
+        "date_discarded": "4/16/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00e7"
+      },
+      "crab_id": 691,
+      "nickname": "Midnight",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 1.77,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "7/30/2020",
+        "date_discarded": "12/4/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00f4"
+      },
+      "crab_id": 704,
+      "nickname": "Sapphire",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 1.92,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "9/3/2021",
+        "date_discarded": "6/11/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed00fd"
+      },
+      "crab_id": 713,
+      "nickname": "Tiger",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 2.77,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "12/5/2023",
+        "date_discarded": "9/3/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0105"
+      },
+      "crab_id": 721,
+      "nickname": "Daisy",
+      "species": "King crab",
+      "shells": {
+        "well_being": 5.44,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "2/15/2024",
+        "date_discarded": "11/5/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed010e"
+      },
+      "crab_id": 730,
+      "nickname": "Sky",
+      "species": "Flying crab",
+      "shells": {
+        "well_being": 5.3,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "1/8/2023",
+        "date_discarded": "3/4/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0111"
+      },
+      "crab_id": 733,
+      "nickname": "Storm",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 3.6,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "3/14/2019",
+        "date_discarded": "2/16/2024"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed011e"
+      },
+      "crab_id": 746,
+      "nickname": "Maverick",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 3.13,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "12/2/2021",
+        "date_discarded": "5/10/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0127"
+      },
+      "crab_id": 755,
+      "nickname": "Twinkle",
+      "species": "King crab",
+      "shells": {
+        "well_being": 8.49,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "12/1/2019",
+        "date_discarded": "10/18/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed012a"
+      },
+      "crab_id": 758,
+      "nickname": "Pumpkin",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 2.18,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "8/14/2023",
+        "date_discarded": "1/16/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0138"
+      },
+      "crab_id": 772,
+      "nickname": "Mango",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 5.36,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "10/15/2022",
+        "date_discarded": "1/1/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0138"
+      },
+      "crab_id": 772,
+      "nickname": "Mango",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 5.66,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "3/24/2019",
+        "date_discarded": "8/3/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0150"
+      },
+      "crab_id": 796,
+      "nickname": "Dusty",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 2.84,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "2/1/2020",
+        "date_discarded": "3/17/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0150"
+      },
+      "crab_id": 796,
+      "nickname": "Dusty",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 5.44,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "9/22/2021",
+        "date_discarded": "7/28/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0151"
+      },
+      "crab_id": 797,
+      "nickname": "Frost",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 7.37,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "12/11/2020",
+        "date_discarded": "3/31/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0151"
+      },
+      "crab_id": 797,
+      "nickname": "Frost",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 9.08,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "4/23/2019",
+        "date_discarded": "9/23/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0154"
+      },
+      "crab_id": 800,
+      "nickname": "Coco",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 2.58,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "4/5/2019",
+        "date_discarded": "9/16/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed015b"
+      },
+      "crab_id": 807,
+      "nickname": "Jazz",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 7.29,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "6/23/2023",
+        "date_discarded": "3/2/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed015d"
+      },
+      "crab_id": 809,
+      "nickname": "Willow",
+      "species": "Pacific red rock crab",
+      "shells": {
+        "well_being": 3.33,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "1/28/2022",
+        "date_discarded": "1/18/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0160"
+      },
+      "crab_id": 812,
+      "nickname": "Bubbles",
+      "species": "Horseshoe crab",
+      "shells": {
+        "well_being": 9.17,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "10/19/2021",
+        "date_discarded": "8/1/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0162"
+      },
+      "crab_id": 814,
+      "nickname": "Hazel",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 9.93,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "8/30/2022",
+        "date_discarded": "8/14/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0165"
+      },
+      "crab_id": 817,
+      "nickname": "Blossom",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 7.72,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "10/20/2021",
+        "date_discarded": "8/29/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0169"
+      },
+      "crab_id": 821,
+      "nickname": "Tiger",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 9.11,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "12/17/2022",
+        "date_discarded": "11/13/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed016e"
+      },
+      "crab_id": 826,
+      "nickname": "Pumpkin",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 3.93,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "12/7/2019",
+        "date_discarded": "8/31/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0192"
+      },
+      "crab_id": 862,
+      "nickname": "Mango",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 3.04,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "11/4/2021",
+        "date_discarded": "4/6/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0195"
+      },
+      "crab_id": 865,
+      "nickname": "Blaze",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 3.95,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "2/16/2021",
+        "date_discarded": "1/24/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0196"
+      },
+      "crab_id": 866,
+      "nickname": "Sunny",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 1.45,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "3/2/2023",
+        "date_discarded": "5/19/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed019b"
+      },
+      "crab_id": 871,
+      "nickname": "Rusty",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 8.81,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "9/3/2023",
+        "date_discarded": "6/26/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01a3"
+      },
+      "crab_id": 879,
+      "nickname": "Angel",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 6.25,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "7/6/2019",
+        "date_discarded": "5/30/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01a5"
+      },
+      "crab_id": 881,
+      "nickname": "Rusty",
+      "species": "Snow crab",
+      "shells": {
+        "well_being": 1.64,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "3/11/2021",
+        "date_discarded": "4/2/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01a9"
+      },
+      "crab_id": 885,
+      "nickname": "Bubbles",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 3.49,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "5/23/2021",
+        "date_discarded": "2/8/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01aa"
+      },
+      "crab_id": 886,
+      "nickname": "Bubbles",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 9.71,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "11/14/2023",
+        "date_discarded": "4/11/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01b8"
+      },
+      "crab_id": 900,
+      "nickname": "Sky",
+      "species": "Flying crab",
+      "shells": {
+        "well_being": 8.97,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "4/3/2023",
+        "date_discarded": "3/19/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01c6"
+      },
+      "crab_id": 914,
+      "nickname": "Coco",
+      "species": "King crab",
+      "shells": {
+        "well_being": 2.7,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "7/12/2019",
+        "date_discarded": "1/14/2024"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01c6"
+      },
+      "crab_id": 914,
+      "nickname": "Coco",
+      "species": "King crab",
+      "shells": {
+        "well_being": 4.71,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "10/11/2019",
+        "date_discarded": "11/17/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01cf"
+      },
+      "crab_id": 923,
+      "nickname": "Rusty",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 4.69,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "2/19/2023",
+        "date_discarded": "3/20/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01e4"
+      },
+      "crab_id": 944,
+      "nickname": "Sunny",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 1.18,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "11/26/2021",
+        "date_discarded": "7/24/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01e9"
+      },
+      "crab_id": 949,
+      "nickname": "Pebbles",
+      "species": "Blue swimmer crab",
+      "shells": {
+        "well_being": 2.57,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "5/2/2021",
+        "date_discarded": "12/29/2020"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01f0"
+      },
+      "crab_id": 956,
+      "nickname": "Angel",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 4.55,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "5/11/2020",
+        "date_discarded": "1/14/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01f1"
+      },
+      "crab_id": 957,
+      "nickname": "Pumpkin",
+      "species": "Mud crab",
+      "shells": {
+        "well_being": 9.64,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "1/15/2021",
+        "date_discarded": "6/22/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01f5"
+      },
+      "crab_id": 961,
+      "nickname": "Buddy",
+      "species": "Atlantic rock crab",
+      "shells": {
+        "well_being": 2.34,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "9/10/2020",
+        "date_discarded": "10/16/2022"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed01fb"
+      },
+      "crab_id": 967,
+      "nickname": "Daisy",
+      "species": "Hermit crab",
+      "shells": {
+        "well_being": 7.7,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "2/23/2022",
+        "date_discarded": "3/15/2023"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0206"
+      },
+      "crab_id": 978,
+      "nickname": "Buddy",
+      "species": "King crab",
+      "shells": {
+        "well_being": 7.21,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "7/7/2021",
+        "date_discarded": "9/7/2019"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed0219"
+      },
+      "crab_id": 997,
+      "nickname": "Jazz",
+      "species": "Fiddler crab",
+      "shells": {
+        "well_being": 7.95,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "4/21/2020",
+        "date_discarded": "5/2/2021"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "661370084f8ae4d690ed021c"
+      },
+      "crab_id": 1000,
+      "nickname": "Muffin",
+      "species": "Dungeness crab",
+      "shells": {
+        "well_being": 1.48,
+        "shell_is_artificial": true,
+        "shell_type": "artificial",
+        "date_picked_up": "3/7/2022",
+        "date_discarded": "10/20/2020"
+      }
+    }
+  ]
+}]

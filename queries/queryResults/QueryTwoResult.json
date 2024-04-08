@@ -1,0 +1,1998 @@
+[{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0222"
+  },
+  "scientist_id": 1,
+  "first_name": "Chelsae",
+  "last_name": "Dudney",
+  "date_of_birth": "5/20/1976",
+  "email": "cdudney0@360.cn",
+  "phone": "392-579-3435",
+  "address": "52 Nevada Way",
+  "salary": 130696,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Master's Degree",
+  "groups": [
+    {
+      "group_location": "Wave Rider Beach"
+    },
+    {
+      "group_location": "Palm Tree Cove Beach"
+    },
+    {
+      "group_location": "Coconut Grove Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0228"
+  },
+  "scientist_id": 7,
+  "first_name": "Carlee",
+  "last_name": "Node",
+  "date_of_birth": "11/26/1981",
+  "email": "cnode6@arizona.edu",
+  "phone": "420-839-3374",
+  "address": "2890 Everett Place",
+  "salary": 132490,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Master's Degree",
+  "groups": [
+    {
+      "group_location": "Ocean View Beach"
+    },
+    {
+      "group_location": "Crystal Waters Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed022a"
+  },
+  "scientist_id": 9,
+  "first_name": "Rafael",
+  "last_name": "Buttel",
+  "date_of_birth": "1/29/1964",
+  "email": "rbuttel8@ft.com",
+  "phone": "414-126-9292",
+  "address": "9237 Mesta Park",
+  "salary": 145410,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Bachelor's Degree",
+  "groups": [
+    {
+      "group_location": "Seashell Cove Beach"
+    },
+    {
+      "group_location": "Secluded Haven Beach"
+    },
+    {
+      "group_location": "Seashell Cove Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0234"
+  },
+  "scientist_id": 19,
+  "first_name": "Micheline",
+  "last_name": "McNutt",
+  "date_of_birth": "10/20/1987",
+  "email": "mmcnutti@about.me",
+  "phone": "418-487-1846",
+  "address": "88291 Moose Alley",
+  "salary": 96784,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Bachelor's Degree",
+  "groups": [
+    {
+      "group_location": "Serenity Cove Beach"
+    },
+    {
+      "group_location": "Coconut Grove Beach"
+    },
+    {
+      "group_location": "Serenity Cove Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0235"
+  },
+  "scientist_id": 20,
+  "first_name": "Damita",
+  "last_name": "Laugier",
+  "date_of_birth": "1/22/1974",
+  "email": "dlaugierj@blinklist.com",
+  "phone": "573-768-9519",
+  "address": "9736 Brickson Park Park",
+  "salary": 118014,
+  "date_joined": "12/11/2018",
+  "job": "Data Analyst",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Serenity Cove Beach"
+    },
+    {
+      "group_location": "Coconut Grove Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0236"
+  },
+  "scientist_id": 21,
+  "first_name": "Pernell",
+  "last_name": "Geldart",
+  "date_of_birth": "3/14/1965",
+  "email": "pgeldartk@tamu.edu",
+  "phone": "563-661-3790",
+  "address": "9 Service Lane",
+  "salary": 126590,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Whale Watcher Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0237"
+  },
+  "scientist_id": 22,
+  "first_name": "Sammy",
+  "last_name": "Teaz",
+  "date_of_birth": "12/2/1963",
+  "email": "steazl@google.com.hk",
+  "phone": "572-402-1093",
+  "address": "25575 Sycamore Parkway",
+  "salary": 128879,
+  "date_joined": "12/11/2018",
+  "job": "Data Analyst",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Island Paradise Beach"
+    },
+    {
+      "group_location": "Coral Reef Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed023f"
+  },
+  "scientist_id": 30,
+  "first_name": "Manon",
+  "last_name": "Whartonby",
+  "date_of_birth": "11/24/1969",
+  "email": "mwhartonbyt@alibaba.com",
+  "phone": "358-877-6830",
+  "address": "32641 Talmadge Junction",
+  "salary": 125454,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Bachelor's Degree",
+  "groups": [
+    {
+      "group_location": "Seashell Cove Beach"
+    },
+    {
+      "group_location": "Whale Watcher Beach"
+    },
+    {
+      "group_location": "Marine Blue Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0241"
+  },
+  "scientist_id": 32,
+  "first_name": "Mariska",
+  "last_name": "Dochon",
+  "date_of_birth": "8/30/1976",
+  "email": "mdochonv@trellian.com",
+  "phone": "728-626-3225",
+  "address": "71 Debs Point",
+  "salary": 119689,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Bachelor's Degree",
+  "groups": [
+    {
+      "group_location": "Sunset Shores Beach"
+    },
+    {
+      "group_location": "Lighthouse Point Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0242"
+  },
+  "scientist_id": 33,
+  "first_name": "Charmian",
+  "last_name": "Chinnock",
+  "date_of_birth": "7/18/1960",
+  "email": "cchinnockw@addtoany.com",
+  "phone": "116-912-7557",
+  "address": "954 Hanson Lane",
+  "salary": 96089,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Ocean View Beach"
+    },
+    {
+      "group_location": "Secluded Haven Beach"
+    },
+    {
+      "group_location": "Marine Blue Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0245"
+  },
+  "scientist_id": 36,
+  "first_name": "Stanfield",
+  "last_name": "Broomfield",
+  "date_of_birth": "3/31/1966",
+  "email": "sbroomfieldz@guardian.co.uk",
+  "phone": "535-752-8856",
+  "address": "99289 Artisan Lane",
+  "salary": 124908,
+  "date_joined": "12/11/2018",
+  "job": "Data Analyst",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Seashell Cove Beach"
+    },
+    {
+      "group_location": "Coconut Grove Beach"
+    },
+    {
+      "group_location": "Island Paradise Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed024a"
+  },
+  "scientist_id": 41,
+  "first_name": "Tory",
+  "last_name": "Raoult",
+  "date_of_birth": "6/23/1968",
+  "email": "traoult14@loc.gov",
+  "phone": "422-795-9926",
+  "address": "5840 Roth Center",
+  "salary": 101077,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Bachelor's Degree",
+  "groups": [
+    {
+      "group_location": "Hidden Gem Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed025a"
+  },
+  "scientist_id": 57,
+  "first_name": "Buckie",
+  "last_name": "Speirs",
+  "date_of_birth": "9/17/1970",
+  "email": "bspeirs1k@ted.com",
+  "phone": "362-955-8294",
+  "address": "680 Bayside Road",
+  "salary": 125209,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Sandy Cove Beach"
+    },
+    {
+      "group_location": "Ocean View Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0268"
+  },
+  "scientist_id": 71,
+  "first_name": "Mata",
+  "last_name": "Castaneda",
+  "date_of_birth": "5/12/1973",
+  "email": "mcastaneda1y@dell.com",
+  "phone": "752-285-0757",
+  "address": "402 Bowman Trail",
+  "salary": 117866,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Master's Degree",
+  "groups": [
+    {
+      "group_location": "Lighthouse Point Beach"
+    },
+    {
+      "group_location": "Tropical Breeze Beach"
+    },
+    {
+      "group_location": "Paradise Bay Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed026c"
+  },
+  "scientist_id": 75,
+  "first_name": "Gusty",
+  "last_name": "Gaudin",
+  "date_of_birth": "3/22/1968",
+  "email": "ggaudin22@google.de",
+  "phone": "612-765-8707",
+  "address": "18 Dennis Junction",
+  "salary": 107210,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Surfside Retreat Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0270"
+  },
+  "scientist_id": 79,
+  "first_name": "Stewart",
+  "last_name": "Kite",
+  "date_of_birth": "3/20/1988",
+  "email": "skite26@usnews.com",
+  "phone": "734-935-8518",
+  "address": "2045 Charing Cross Center",
+  "salary": 144374,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Sandy Cove Beach"
+    },
+    {
+      "group_location": "Ocean View Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0278"
+  },
+  "scientist_id": 87,
+  "first_name": "Royall",
+  "last_name": "Bolsteridge",
+  "date_of_birth": "2/17/1961",
+  "email": "rbolsteridge2e@de.vu",
+  "phone": "249-491-0564",
+  "address": "25 American Ash Drive",
+  "salary": 93321,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Master's Degree",
+  "groups": [
+    {
+      "group_location": "Serenity Cove Beach"
+    },
+    {
+      "group_location": "Wave Rider Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed027f"
+  },
+  "scientist_id": 94,
+  "first_name": "Glen",
+  "last_name": "Kildale",
+  "date_of_birth": "1/10/1972",
+  "email": "gkildale2l@msn.com",
+  "phone": "634-455-4457",
+  "address": "5863 Everett Center",
+  "salary": 123971,
+  "date_joined": "12/11/2018",
+  "job": "Data Analyst",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Surfside Retreat Beach"
+    },
+    {
+      "group_location": "Wave Rider Beach"
+    },
+    {
+      "group_location": "Seashell Cove Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed028e"
+  },
+  "scientist_id": 109,
+  "first_name": "Ashlin",
+  "last_name": "Cheley",
+  "date_of_birth": "2/2/1973",
+  "email": "acheley30@ihg.com",
+  "phone": "924-900-1183",
+  "address": "3028 4th Junction",
+  "salary": 99949,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Bachelor's Degree",
+  "groups": [
+    {
+      "group_location": "Tropical Breeze Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0291"
+  },
+  "scientist_id": 112,
+  "first_name": "Olenka",
+  "last_name": "MacShirie",
+  "date_of_birth": "4/8/1987",
+  "email": "omacshirie33@google.nl",
+  "phone": "739-427-9537",
+  "address": "5 Atwood Park",
+  "salary": 149252,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Coconut Grove Beach"
+    },
+    {
+      "group_location": "Paradise Bay Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed029d"
+  },
+  "scientist_id": 124,
+  "first_name": "Theo",
+  "last_name": "Tavernor",
+  "date_of_birth": "12/21/1970",
+  "email": "ttavernor3f@forbes.com",
+  "phone": "215-329-8380",
+  "address": "13328 Monument Circle",
+  "salary": 129896,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Ocean View Beach"
+    },
+    {
+      "group_location": "Hidden Gem Beach"
+    },
+    {
+      "group_location": "Wave Rider Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed029f"
+  },
+  "scientist_id": 126,
+  "first_name": "Olive",
+  "last_name": "Mullis",
+  "date_of_birth": "1/19/1975",
+  "email": "omullis3h@buzzfeed.com",
+  "phone": "729-577-3587",
+  "address": "0315 Reindahl Hill",
+  "salary": 90408,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Palm Tree Cove Beach"
+    },
+    {
+      "group_location": "Ocean View Beach"
+    },
+    {
+      "group_location": "Coral Reef Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed02a1"
+  },
+  "scientist_id": 128,
+  "first_name": "Hadlee",
+  "last_name": "Bridgens",
+  "date_of_birth": "7/28/1968",
+  "email": "hbridgens3j@globo.com",
+  "phone": "733-204-2876",
+  "address": "8 Farwell Hill",
+  "salary": 97645,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Master's Degree",
+  "groups": [
+    {
+      "group_location": "Hidden Gem Beach"
+    },
+    {
+      "group_location": "Sandy Cove Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed02ab"
+  },
+  "scientist_id": 138,
+  "first_name": "Elfrida",
+  "last_name": "Crowthe",
+  "date_of_birth": "4/15/1978",
+  "email": "ecrowthe3t@google.fr",
+  "phone": "423-647-2669",
+  "address": "63 Monument Lane",
+  "salary": 131371,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Ocean View Beach"
+    },
+    {
+      "group_location": "Crystal Waters Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed02b3"
+  },
+  "scientist_id": 146,
+  "first_name": "Whitney",
+  "last_name": "Farnham",
+  "date_of_birth": "7/25/1985",
+  "email": "wfarnham41@trellian.com",
+  "phone": "222-681-7329",
+  "address": "52136 Holy Cross Trail",
+  "salary": 111991,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Bachelor's Degree",
+  "groups": [
+    {
+      "group_location": "Tropical Breeze Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed02b4"
+  },
+  "scientist_id": 147,
+  "first_name": "Bobbee",
+  "last_name": "Dumke",
+  "date_of_birth": "3/19/1982",
+  "email": "bdumke42@dion.ne.jp",
+  "phone": "184-536-5543",
+  "address": "641 Ryan Court",
+  "salary": 113065,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Master's Degree",
+  "groups": [
+    {
+      "group_location": "Secluded Haven Beach"
+    },
+    {
+      "group_location": "Sandy Cove Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed02b5"
+  },
+  "scientist_id": 148,
+  "first_name": "Neille",
+  "last_name": "Emms",
+  "date_of_birth": "7/18/1980",
+  "email": "nemms43@freewebs.com",
+  "phone": "746-288-1441",
+  "address": "797 Comanche Circle",
+  "salary": 139286,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Coral Reef Beach"
+    },
+    {
+      "group_location": "Golden Sands Beach"
+    },
+    {
+      "group_location": "Island Paradise Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed02b6"
+  },
+  "scientist_id": 149,
+  "first_name": "Mercedes",
+  "last_name": "Braker",
+  "date_of_birth": "10/27/1984",
+  "email": "mbraker44@cisco.com",
+  "phone": "646-683-0465",
+  "address": "256 Marcy Hill",
+  "salary": 125307,
+  "date_joined": "12/11/2018",
+  "job": "Data Analyst",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Hidden Gem Beach"
+    },
+    {
+      "group_location": "Secluded Haven Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed02c2"
+  },
+  "scientist_id": 161,
+  "first_name": "Skipp",
+  "last_name": "Mannion",
+  "date_of_birth": "5/15/1972",
+  "email": "smannion4g@feedburner.com",
+  "phone": "756-634-5671",
+  "address": "1409 Shasta Center",
+  "salary": 109780,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Bachelor's Degree",
+  "groups": [
+    {
+      "group_location": "Coral Reef Beach"
+    },
+    {
+      "group_location": "Surfside Retreat Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed02c3"
+  },
+  "scientist_id": 162,
+  "first_name": "Yard",
+  "last_name": "Coope",
+  "date_of_birth": "10/18/1959",
+  "email": "ycoope4h@blogger.com",
+  "phone": "303-856-3911",
+  "address": "3 Forest Dale Avenue",
+  "salary": 112525,
+  "date_joined": "12/11/2018",
+  "job": "Data Analyst",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Hidden Gem Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed02c9"
+  },
+  "scientist_id": 168,
+  "first_name": "Stormie",
+  "last_name": "Klees",
+  "date_of_birth": "6/28/1980",
+  "email": "sklees4n@miibeian.gov.cn",
+  "phone": "885-362-9591",
+  "address": "8212 Village Green Street",
+  "salary": 108342,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Master's Degree",
+  "groups": [
+    {
+      "group_location": "Coconut Grove Beach"
+    },
+    {
+      "group_location": "Tropical Breeze Beach"
+    },
+    {
+      "group_location": "Crystal Waters Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed02ce"
+  },
+  "scientist_id": 173,
+  "first_name": "Ulrica",
+  "last_name": "Lerner",
+  "date_of_birth": "9/28/1956",
+  "email": "ulerner4s@bloglines.com",
+  "phone": "874-557-2531",
+  "address": "2 Dryden Way",
+  "salary": 131369,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Surfside Retreat Beach"
+    },
+    {
+      "group_location": "Coral Reef Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed02da"
+  },
+  "scientist_id": 185,
+  "first_name": "Hadlee",
+  "last_name": "Rehn",
+  "date_of_birth": "4/15/1989",
+  "email": "hrehn54@cnet.com",
+  "phone": "495-181-8931",
+  "address": "1819 Donald Hill",
+  "salary": 119962,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Hidden Gem Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed02ed"
+  },
+  "scientist_id": 204,
+  "first_name": "Sisile",
+  "last_name": "Heck",
+  "date_of_birth": "2/3/1969",
+  "email": "sheck5n@storify.com",
+  "phone": "440-997-2661",
+  "address": "2 Basil Road",
+  "salary": 91508,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Bachelor's Degree",
+  "groups": [
+    {
+      "group_location": "Golden Sands Beach"
+    },
+    {
+      "group_location": "Wave Rider Beach"
+    },
+    {
+      "group_location": "Coconut Grove Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed02fc"
+  },
+  "scientist_id": 219,
+  "first_name": "Edouard",
+  "last_name": "Tidcombe",
+  "date_of_birth": "8/22/1987",
+  "email": "etidcombe62@hugedomains.com",
+  "phone": "208-927-4169",
+  "address": "16077 Lien Circle",
+  "salary": 116077,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Marine Blue Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0305"
+  },
+  "scientist_id": 228,
+  "first_name": "Hyman",
+  "last_name": "Marmion",
+  "date_of_birth": "7/23/1968",
+  "email": "hmarmion6b@networkadvertising.org",
+  "phone": "113-662-2886",
+  "address": "9745 Farmco Place",
+  "salary": 108376,
+  "date_joined": "12/11/2018",
+  "job": "Data Analyst",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Sunset Shores Beach"
+    },
+    {
+      "group_location": "Palm Tree Cove Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed030e"
+  },
+  "scientist_id": 237,
+  "first_name": "Maria",
+  "last_name": "Meers",
+  "date_of_birth": "1/30/1986",
+  "email": "mmeers6k@cargocollective.com",
+  "phone": "266-441-6885",
+  "address": "7655 Ruskin Park",
+  "salary": 110283,
+  "date_joined": "12/11/2018",
+  "job": "Data Analyst",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Lighthouse Point Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0321"
+  },
+  "scientist_id": 256,
+  "first_name": "Martie",
+  "last_name": "Innes",
+  "date_of_birth": "12/11/1983",
+  "email": "minnes73@si.edu",
+  "phone": "140-245-9262",
+  "address": "2494 Dayton Hill",
+  "salary": 136515,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Bachelor's Degree",
+  "groups": [
+    {
+      "group_location": "Ocean View Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0325"
+  },
+  "scientist_id": 260,
+  "first_name": "Enrichetta",
+  "last_name": "Tansill",
+  "date_of_birth": "12/15/1988",
+  "email": "etansill77@csmonitor.com",
+  "phone": "604-471-0556",
+  "address": "0352 Meadow Valley Junction",
+  "salary": 101295,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Whale Watcher Beach"
+    },
+    {
+      "group_location": "Island Paradise Beach"
+    },
+    {
+      "group_location": "Ocean View Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed032a"
+  },
+  "scientist_id": 265,
+  "first_name": "Sorcha",
+  "last_name": "Southwell",
+  "date_of_birth": "9/29/1975",
+  "email": "ssouthwell7c@booking.com",
+  "phone": "109-742-3330",
+  "address": "2 Sheridan Crossing",
+  "salary": 140765,
+  "date_joined": "12/11/2018",
+  "job": "Data Analyst",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Golden Sands Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0334"
+  },
+  "scientist_id": 275,
+  "first_name": "Yul",
+  "last_name": "Batrick",
+  "date_of_birth": "11/10/1977",
+  "email": "ybatrick7m@mac.com",
+  "phone": "247-281-6164",
+  "address": "5 Welch Avenue",
+  "salary": 149195,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Master's Degree",
+  "groups": [
+    {
+      "group_location": "Palm Tree Cove Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0337"
+  },
+  "scientist_id": 278,
+  "first_name": "Dyane",
+  "last_name": "Nilges",
+  "date_of_birth": "6/12/1977",
+  "email": "dnilges7p@photobucket.com",
+  "phone": "637-186-8667",
+  "address": "29415 Union Place",
+  "salary": 142116,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Master's Degree",
+  "groups": [
+    {
+      "group_location": "Secluded Haven Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0343"
+  },
+  "scientist_id": 290,
+  "first_name": "Giacopo",
+  "last_name": "Kienle",
+  "date_of_birth": "1/27/1984",
+  "email": "gkienle81@newsvine.com",
+  "phone": "579-115-6604",
+  "address": "65 Prairie Rose Circle",
+  "salary": 96508,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Bachelor's Degree",
+  "groups": [
+    {
+      "group_location": "Coral Reef Beach"
+    },
+    {
+      "group_location": "Palm Tree Cove Beach"
+    },
+    {
+      "group_location": "Marine Blue Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0347"
+  },
+  "scientist_id": 294,
+  "first_name": "Henryetta",
+  "last_name": "Corstan",
+  "date_of_birth": "2/16/1958",
+  "email": "hcorstan85@blog.com",
+  "phone": "731-845-6459",
+  "address": "557 Hauk Junction",
+  "salary": 128531,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Master's Degree",
+  "groups": [
+    {
+      "group_location": "Hidden Gem Beach"
+    },
+    {
+      "group_location": "Coconut Grove Beach"
+    },
+    {
+      "group_location": "Paradise Bay Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0351"
+  },
+  "scientist_id": 304,
+  "first_name": "Millisent",
+  "last_name": "Camocke",
+  "date_of_birth": "11/5/1983",
+  "email": "mcamocke8f@360.cn",
+  "phone": "411-995-3251",
+  "address": "3224 Cambridge Drive",
+  "salary": 102437,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Master's Degree",
+  "groups": [
+    {
+      "group_location": "Seashell Cove Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0355"
+  },
+  "scientist_id": 308,
+  "first_name": "Donielle",
+  "last_name": "Polglaze",
+  "date_of_birth": "4/20/1963",
+  "email": "dpolglaze8j@gravatar.com",
+  "phone": "277-563-7155",
+  "address": "1417 New Castle Place",
+  "salary": 142854,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Crystal Waters Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0361"
+  },
+  "scientist_id": 320,
+  "first_name": "Lane",
+  "last_name": "Pelcheur",
+  "date_of_birth": "11/20/1965",
+  "email": "lpelcheur8v@economist.com",
+  "phone": "398-573-0712",
+  "address": "1 Delladonna Road",
+  "salary": 120200,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Bachelor's Degree",
+  "groups": [
+    {
+      "group_location": "Seashell Cove Beach"
+    },
+    {
+      "group_location": "Golden Sands Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed036a"
+  },
+  "scientist_id": 329,
+  "first_name": "Claudian",
+  "last_name": "Bettridge",
+  "date_of_birth": "5/4/1982",
+  "email": "cbettridge94@discuz.net",
+  "phone": "340-800-9464",
+  "address": "99 Division Trail",
+  "salary": 114374,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Bachelor's Degree",
+  "groups": [
+    {
+      "group_location": "Hidden Gem Beach"
+    },
+    {
+      "group_location": "Golden Sands Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed036d"
+  },
+  "scientist_id": 332,
+  "first_name": "Benson",
+  "last_name": "Poulston",
+  "date_of_birth": "5/10/1976",
+  "email": "bpoulston97@chronoengine.com",
+  "phone": "692-733-3613",
+  "address": "9 Drewry Terrace",
+  "salary": 131783,
+  "date_joined": "12/11/2018",
+  "job": "Data Analyst",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Golden Sands Beach"
+    },
+    {
+      "group_location": "Lighthouse Point Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0377"
+  },
+  "scientist_id": 342,
+  "first_name": "Job",
+  "last_name": "Bosence",
+  "date_of_birth": "5/26/1984",
+  "email": "jbosence9h@devhub.com",
+  "phone": "294-681-3662",
+  "address": "61 7th Terrace",
+  "salary": 103823,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Wave Rider Beach"
+    },
+    {
+      "group_location": "Golden Sands Beach"
+    },
+    {
+      "group_location": "Paradise Bay Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0379"
+  },
+  "scientist_id": 344,
+  "first_name": "Cyrill",
+  "last_name": "Ducastel",
+  "date_of_birth": "2/29/1956",
+  "email": "cducastel9j@example.com",
+  "phone": "722-199-8337",
+  "address": "1 Parkside Junction",
+  "salary": 117275,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Marine Blue Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed038b"
+  },
+  "scientist_id": 362,
+  "first_name": "Mendel",
+  "last_name": "Liebrecht",
+  "date_of_birth": "10/23/1960",
+  "email": "mliebrechta1@examiner.com",
+  "phone": "968-942-1872",
+  "address": "8 Brentwood Trail",
+  "salary": 142029,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Master's Degree",
+  "groups": [
+    {
+      "group_location": "Marine Blue Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0390"
+  },
+  "scientist_id": 367,
+  "first_name": "Griffy",
+  "last_name": "Ogglebie",
+  "date_of_birth": "6/6/1984",
+  "email": "gogglebiea6@usgs.gov",
+  "phone": "529-651-2227",
+  "address": "722 Armistice Crossing",
+  "salary": 105335,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Bachelor's Degree",
+  "groups": [
+    {
+      "group_location": "Secluded Haven Beach"
+    },
+    {
+      "group_location": "Island Paradise Beach"
+    },
+    {
+      "group_location": "Coconut Grove Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0394"
+  },
+  "scientist_id": 371,
+  "first_name": "Corine",
+  "last_name": "Itzcovichch",
+  "date_of_birth": "2/14/1982",
+  "email": "citzcovichchaa@va.gov",
+  "phone": "974-396-8227",
+  "address": "578 Pleasure Park",
+  "salary": 128584,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Bachelor's Degree",
+  "groups": [
+    {
+      "group_location": "Tropical Breeze Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0396"
+  },
+  "scientist_id": 373,
+  "first_name": "Dene",
+  "last_name": "Sculley",
+  "date_of_birth": "2/29/1988",
+  "email": "dsculleyac@unc.edu",
+  "phone": "954-371-3199",
+  "address": "3899 Luster Crossing",
+  "salary": 96252,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Paradise Bay Beach"
+    },
+    {
+      "group_location": "Paradise Bay Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed039a"
+  },
+  "scientist_id": 377,
+  "first_name": "Martguerita",
+  "last_name": "Templar",
+  "date_of_birth": "5/27/1971",
+  "email": "mtemplarag@nature.com",
+  "phone": "582-931-3830",
+  "address": "1 Fremont Park",
+  "salary": 129358,
+  "date_joined": "12/11/2018",
+  "job": "Data Analyst",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Surfside Retreat Beach"
+    },
+    {
+      "group_location": "Whale Watcher Beach"
+    },
+    {
+      "group_location": "Island Paradise Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed039f"
+  },
+  "scientist_id": 382,
+  "first_name": "Edward",
+  "last_name": "Durbin",
+  "date_of_birth": "3/4/1982",
+  "email": "edurbinal@ustream.tv",
+  "phone": "506-735-9103",
+  "address": "8 Artisan Center",
+  "salary": 98718,
+  "date_joined": "12/11/2018",
+  "job": "Data Analyst",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Hidden Gem Beach"
+    },
+    {
+      "group_location": "Seashell Cove Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03a0"
+  },
+  "scientist_id": 383,
+  "first_name": "Melinde",
+  "last_name": "Ivanonko",
+  "date_of_birth": "8/6/1973",
+  "email": "mivanonkoam@tmall.com",
+  "phone": "485-129-6798",
+  "address": "447 Drewry Pass",
+  "salary": 97156,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Bachelor's Degree",
+  "groups": [
+    {
+      "group_location": "Palm Tree Cove Beach"
+    },
+    {
+      "group_location": "Sandy Cove Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03a1"
+  },
+  "scientist_id": 384,
+  "first_name": "Dulsea",
+  "last_name": "Orwin",
+  "date_of_birth": "9/25/1989",
+  "email": "dorwinan@yahoo.co.jp",
+  "phone": "107-272-2146",
+  "address": "9648 Surrey Center",
+  "salary": 133240,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Master's Degree",
+  "groups": [
+    {
+      "group_location": "Marine Blue Beach"
+    },
+    {
+      "group_location": "Marine Blue Beach"
+    },
+    {
+      "group_location": "Secluded Haven Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03a5"
+  },
+  "scientist_id": 388,
+  "first_name": "Dieter",
+  "last_name": "Coleborn",
+  "date_of_birth": "3/11/1955",
+  "email": "dcolebornar@ezinearticles.com",
+  "phone": "165-587-6210",
+  "address": "8864 Kings Road",
+  "salary": 125110,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Master's Degree",
+  "groups": [
+    {
+      "group_location": "Tropical Breeze Beach"
+    },
+    {
+      "group_location": "Tropical Breeze Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03a7"
+  },
+  "scientist_id": 390,
+  "first_name": "Carlita",
+  "last_name": "Conor",
+  "date_of_birth": "8/10/1984",
+  "email": "cconorat@printfriendly.com",
+  "phone": "957-895-4607",
+  "address": "87 Briar Crest Point",
+  "salary": 138353,
+  "date_joined": "12/11/2018",
+  "job": "Data Analyst",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Sandy Cove Beach"
+    },
+    {
+      "group_location": "Golden Sands Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03b0"
+  },
+  "scientist_id": 399,
+  "first_name": "Raimondo",
+  "last_name": "Oganian",
+  "date_of_birth": "5/24/1975",
+  "email": "roganianb2@ibm.com",
+  "phone": "496-111-0621",
+  "address": "4 Hoepker Court",
+  "salary": 138321,
+  "date_joined": "12/11/2018",
+  "job": "Data Analyst",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Palm Tree Cove Beach"
+    },
+    {
+      "group_location": "Island Paradise Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03b3"
+  },
+  "scientist_id": 402,
+  "first_name": "Jewell",
+  "last_name": "Roma",
+  "date_of_birth": "4/9/1983",
+  "email": "jromab5@wisc.edu",
+  "phone": "849-671-3081",
+  "address": "2600 Oneill Center",
+  "salary": 106442,
+  "date_joined": "12/11/2018",
+  "job": "Data Analyst",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Seashell Cove Beach"
+    },
+    {
+      "group_location": "Sunset Shores Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03b5"
+  },
+  "scientist_id": 404,
+  "first_name": "Chas",
+  "last_name": "Haggerty",
+  "date_of_birth": "6/22/1985",
+  "email": "chaggertyb7@netlog.com",
+  "phone": "491-990-4463",
+  "address": "3255 Corscot Place",
+  "salary": 130386,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Bachelor's Degree",
+  "groups": [
+    {
+      "group_location": "Ocean View Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03b7"
+  },
+  "scientist_id": 406,
+  "first_name": "Phip",
+  "last_name": "Trevaskis",
+  "date_of_birth": "2/18/1977",
+  "email": "ptrevaskisb9@phoca.cz",
+  "phone": "220-867-3111",
+  "address": "9 Algoma Plaza",
+  "salary": 100091,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Coral Reef Beach"
+    },
+    {
+      "group_location": "Coconut Grove Beach"
+    },
+    {
+      "group_location": "Palm Tree Cove Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03bc"
+  },
+  "scientist_id": 411,
+  "first_name": "Linnea",
+  "last_name": "Northwood",
+  "date_of_birth": "8/5/1985",
+  "email": "lnorthwoodbe@ted.com",
+  "phone": "696-413-5580",
+  "address": "10 Huxley Alley",
+  "salary": 107716,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Bachelor's Degree",
+  "groups": [
+    {
+      "group_location": "Paradise Bay Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03c1"
+  },
+  "scientist_id": 416,
+  "first_name": "Selestina",
+  "last_name": "Maymand",
+  "date_of_birth": "3/4/1977",
+  "email": "smaymandbj@spotify.com",
+  "phone": "432-447-3743",
+  "address": "47741 Judy Junction",
+  "salary": 144448,
+  "date_joined": "12/11/2018",
+  "job": "Data Analyst",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Tropical Breeze Beach"
+    },
+    {
+      "group_location": "Sunset Shores Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03c2"
+  },
+  "scientist_id": 417,
+  "first_name": "Pascal",
+  "last_name": "Lynett",
+  "date_of_birth": "9/1/1988",
+  "email": "plynettbk@forbes.com",
+  "phone": "991-801-6734",
+  "address": "90 Meadow Ridge Drive",
+  "salary": 120522,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Ocean View Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03c6"
+  },
+  "scientist_id": 421,
+  "first_name": "Cassandry",
+  "last_name": "Low",
+  "date_of_birth": "11/22/1960",
+  "email": "clowbo@cnbc.com",
+  "phone": "776-736-2158",
+  "address": "65 Park Meadow Street",
+  "salary": 121027,
+  "date_joined": "12/11/2018",
+  "job": "Data Analyst",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Whale Watcher Beach"
+    },
+    {
+      "group_location": "Golden Sands Beach"
+    },
+    {
+      "group_location": "Coconut Grove Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03c9"
+  },
+  "scientist_id": 424,
+  "first_name": "Cass",
+  "last_name": "Matzen",
+  "date_of_birth": "6/14/1971",
+  "email": "cmatzenbr@latimes.com",
+  "phone": "365-619-5524",
+  "address": "57 Londonderry Street",
+  "salary": 141091,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Master's Degree",
+  "groups": [
+    {
+      "group_location": "Lighthouse Point Beach"
+    },
+    {
+      "group_location": "Lighthouse Point Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03cb"
+  },
+  "scientist_id": 426,
+  "first_name": "Grete",
+  "last_name": "Fronks",
+  "date_of_birth": "5/5/1978",
+  "email": "gfronksbt@vistaprint.com",
+  "phone": "650-168-0863",
+  "address": "93 Messerschmidt Road",
+  "salary": 133665,
+  "date_joined": "12/11/2018",
+  "job": "Data Analyst",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Golden Sands Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03cd"
+  },
+  "scientist_id": 428,
+  "first_name": "Cross",
+  "last_name": "Geratt",
+  "date_of_birth": "4/2/1958",
+  "email": "cgerattbv@uol.com.br",
+  "phone": "510-842-2431",
+  "address": "8 Corry Trail",
+  "salary": 117567,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Bachelor's Degree",
+  "groups": [
+    {
+      "group_location": "Palm Tree Cove Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03ce"
+  },
+  "scientist_id": 429,
+  "first_name": "Gilbertina",
+  "last_name": "Sphinxe",
+  "date_of_birth": "2/22/1971",
+  "email": "gsphinxebw@51.la",
+  "phone": "403-818-7711",
+  "address": "5 Scofield Parkway",
+  "salary": 98067,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Master's Degree",
+  "groups": [
+    {
+      "group_location": "Hidden Gem Beach"
+    },
+    {
+      "group_location": "Island Paradise Beach"
+    },
+    {
+      "group_location": "Surfside Retreat Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03cf"
+  },
+  "scientist_id": 430,
+  "first_name": "Anabelle",
+  "last_name": "Twatt",
+  "date_of_birth": "1/24/1967",
+  "email": "atwattbx@mapquest.com",
+  "phone": "948-631-0895",
+  "address": "1199 Washington Pass",
+  "salary": 137569,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Bachelor's Degree",
+  "groups": [
+    {
+      "group_location": "Coconut Grove Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03d4"
+  },
+  "scientist_id": 435,
+  "first_name": "Gordie",
+  "last_name": "Sayers",
+  "date_of_birth": "9/15/1960",
+  "email": "gsayersc2@fc2.com",
+  "phone": "120-351-9412",
+  "address": "2674 Spaight Hill",
+  "salary": 115333,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Master's Degree",
+  "groups": [
+    {
+      "group_location": "Secluded Haven Beach"
+    },
+    {
+      "group_location": "Sandy Cove Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03e2"
+  },
+  "scientist_id": 449,
+  "first_name": "Aeriel",
+  "last_name": "Ubsdale",
+  "date_of_birth": "3/21/1967",
+  "email": "aubsdalecg@adobe.com",
+  "phone": "891-407-4470",
+  "address": "55 Crest Line Trail",
+  "salary": 136794,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Marine Blue Beach"
+    },
+    {
+      "group_location": "Golden Sands Beach"
+    },
+    {
+      "group_location": "Whale Watcher Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03ea"
+  },
+  "scientist_id": 457,
+  "first_name": "Modesta",
+  "last_name": "Scotchmur",
+  "date_of_birth": "9/1/1988",
+  "email": "mscotchmurco@princeton.edu",
+  "phone": "714-311-6146",
+  "address": "565 Lakeland Center",
+  "salary": 100761,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Master's Degree",
+  "groups": [
+    {
+      "group_location": "Coconut Grove Beach"
+    },
+    {
+      "group_location": "Tropical Breeze Beach"
+    },
+    {
+      "group_location": "Lighthouse Point Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03ed"
+  },
+  "scientist_id": 460,
+  "first_name": "Benoite",
+  "last_name": "Danniel",
+  "date_of_birth": "11/17/1961",
+  "email": "bdannielcr@constantcontact.com",
+  "phone": "240-730-1919",
+  "address": "321 Porter Court",
+  "salary": 129419,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Bachelor's Degree",
+  "groups": [
+    {
+      "group_location": "Whale Watcher Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03f0"
+  },
+  "scientist_id": 463,
+  "first_name": "Dickie",
+  "last_name": "Havock",
+  "date_of_birth": "3/23/1956",
+  "email": "dhavockcu@eepurl.com",
+  "phone": "601-385-4996",
+  "address": "1 Barby Point",
+  "salary": 92194,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Paradise Bay Beach"
+    },
+    {
+      "group_location": "Marine Blue Beach"
+    },
+    {
+      "group_location": "Island Paradise Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03f1"
+  },
+  "scientist_id": 464,
+  "first_name": "Fabe",
+  "last_name": "Siveter",
+  "date_of_birth": "2/16/1957",
+  "email": "fsivetercv@utexas.edu",
+  "phone": "288-881-0411",
+  "address": "1648 Dovetail Place",
+  "salary": 124579,
+  "date_joined": "12/11/2018",
+  "job": "Data Analyst",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Paradise Bay Beach"
+    },
+    {
+      "group_location": "Hidden Gem Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed03f5"
+  },
+  "scientist_id": 468,
+  "first_name": "Teddie",
+  "last_name": "Donson",
+  "date_of_birth": "6/19/1961",
+  "email": "tdonsoncz@hp.com",
+  "phone": "653-458-4074",
+  "address": "705 Hayes Lane",
+  "salary": 141196,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Sandy Cove Beach"
+    },
+    {
+      "group_location": "Hidden Gem Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0406"
+  },
+  "scientist_id": 485,
+  "first_name": "La verne",
+  "last_name": "Linder",
+  "date_of_birth": "3/2/1969",
+  "email": "llinderdg@geocities.com",
+  "phone": "236-175-4165",
+  "address": "946 Cody Junction",
+  "salary": 95788,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "PhD",
+  "groups": [
+    {
+      "group_location": "Coconut Grove Beach"
+    },
+    {
+      "group_location": "Secluded Haven Beach"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6613708d4f8ae4d690ed0412"
+  },
+  "scientist_id": 497,
+  "first_name": "Inga",
+  "last_name": "Brogi",
+  "date_of_birth": "3/8/1979",
+  "email": "ibrogids@google.com.hk",
+  "phone": "668-495-0684",
+  "address": "82524 Michigan Hill",
+  "salary": 120037,
+  "date_joined": "12/11/2018",
+  "job": "Hermit Crab Expert",
+  "education": "Master's Degree",
+  "groups": [
+    {
+      "group_location": "Seashell Cove Beach"
+    },
+    {
+      "group_location": "Coral Reef Beach"
+    },
+    {
+      "group_location": "Palm Tree Cove Beach"
+    }
+  ]
+}]

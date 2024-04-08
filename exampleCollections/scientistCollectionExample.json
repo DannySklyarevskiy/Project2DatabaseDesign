@@ -1,0 +1,16 @@
+{
+    "scientist_id": 1,
+    "first_name": "Jane",
+    "last_name": "Doe",
+    "date_of_birth": "1977-12-11",
+    "email": "janedoe@me.com",
+    "phone": 1234567890,
+    "address": "500 MacArthur Drive, San Francisco, CA 94111",
+    "salary": 13000,
+    "date_joined": "2018-12-11",
+    "job": "Data Analyst",
+    "education": "PHD",
+    "groups": [{
+        "group_location": "San Francisco"
+    }]
+}

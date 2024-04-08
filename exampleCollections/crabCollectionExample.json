@@ -1,0 +1,14 @@
+{
+  "crab_id": 1,
+  "nickname": "Crusty",
+  "species": "Cocunut crab",
+  "shells": [{
+    "shell_id": 1,
+    "shell_is_artificial": true,
+    "well_being": 0.37,
+    "shell_type": "artificial",
+    "date_picked_up": "2018-12-11",
+    "date_discarded": "2018-12-11"
+  }]
+
+}

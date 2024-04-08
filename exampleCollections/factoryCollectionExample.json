@@ -1,0 +1,28 @@
+{
+    "factory_id": 3, 
+    "address": "500 MacArthur Drive, San Francisco, CA 94111",
+    "creation_date": "2018-12-11",
+    "printers": [{  
+        "printer_id": 7,
+        "tons_of_emmissions_produced": 1000,
+        "date_installed": "2018-12-11",
+        "3D_shells": [{
+            "shell_id": 1,
+            "mass": 1000,
+            "date_produced": "2018-12-11",
+            "group_id": 1
+        }]
+    }],
+    "workers": [{
+        "worker_id": 1,
+        "first_name": "John",
+        "last_name": "Doe",
+        "date_of_birth": "1977-12-11",
+        "email": "johndoe@me.com",
+        "phone": 1234567890,
+        "address": "500 MacArthur Drive, San Francisco, CA 94111",
+        "salary": 70000,
+        "date_joined": "2018-12-11"
+    }]
+}
+
